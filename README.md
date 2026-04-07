@@ -56,8 +56,6 @@ The receptionist can create appointment viewing patient requirements and doctor'
 
 ![create appointment](https://user-images.githubusercontent.com/112558434/188259308-5d36086a-48e9-4454-9ac3-0971047a6bce.png)
 
-Every user also has their unique id(primary key) hence making the system more secure and data well protected.We have used MySQL for database, all data is stored in tables.
-![mysql table](https://user-images.githubusercontent.com/112558434/188259170-38070f6b-6a96-4387-93cf-404a09397696.png)
 
 
 
